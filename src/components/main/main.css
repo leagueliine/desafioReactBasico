@@ -1,0 +1,12 @@
+.div-main {
+  display: flex;
+  position: relative;
+  align-items: center;
+  text-align: center;
+  border: 2px solid orangered;
+  background-color: grey;
+  width: 150px;
+  height: 150px;
+  margin: 20px;
+  padding: 20px;
+}
